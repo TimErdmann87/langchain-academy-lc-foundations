@@ -211,3 +211,5 @@ __marimo__/
 
 # Linting
 .flake8
+
+.vscode
